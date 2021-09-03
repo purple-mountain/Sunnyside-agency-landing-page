@@ -17,8 +17,8 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flex-and-grid-Xw1rpqIXh)
+- Live Site URL: [Add live site URL here](https://purple-mountain.github.io/Sunnyside-agency-landing-page/)
 
 
 ### Built with
